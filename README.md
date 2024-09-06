@@ -8,11 +8,6 @@ Made just for fun!
   <img src="http://a4.mzstatic.com/us/r30/Purple4/v4/a4/f8/af/a4f8af1d-3878-0817-859d-de76bae169c7/screen568x568.jpeg" alt="Screenshot"/>
 </p>
 
-## AI
-
-An AI is added, thanks to [DJBen](https://github.com/DJBen)! Tap "Hint" to show hint (e.g. Move left/right/up/down); tap "Auto Run" to run AI automatically. Check it out in the `AI` branch. You can also check out [this demo video on YouTube](https://www.youtube.com/watch?v=GF0ANNPpF8E).
-
-Thanks to [ov3y](https://github.com/ov3y/2048-AI)'s Javascript version that gave me (DJBen, that is) inspiration.
 
 ### Issues and pending improvements
 
