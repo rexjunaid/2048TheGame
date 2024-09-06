@@ -57,9 +57,7 @@ Any contributions are more than welcome! If you do make improvements to it, reme
 
 #### Contributors
 
-* Danqing Liu (me)
-* [Scott Matthewman](https://github.com/scottmatthewman)
-* [Sihao Lu](https://github.com/DJBen)
+*Rex Junaid (Me)
 
 
 ## Licence
